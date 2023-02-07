@@ -1,5 +1,4 @@
-# Hi 🎉 Welcome to fish's Github Homepage! <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/rjzhb&right_color=red" />
-
+# Hi 🎉 Welcome to fish's Github Homepage!
 I am a third year undergraduate student.
 I plan to apply for P.H.D in computer system in North America or German.
 Recently, I am looking for a **summer system research**. Please contact me on **WeChat** rjzhb123.
