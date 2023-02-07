@@ -2,7 +2,6 @@
 
 I am a third year undergraduate student.
 I plan to apply for P.H.D in computer system in North America or German.
-I am working on 4paradigm to do database research.
 Recently, I am looking for a **summer system research**. Please contact me on **WeChat** rjzhb123.
 ## Interest
 [![Math](https://img.shields.io/badge/-Math-f05032?style=flat-square&logo=Math&logoColor=white)](https://www.linuxfoundation.org/)
