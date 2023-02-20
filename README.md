@@ -1,6 +1,6 @@
 # Hi 🎉 Welcome to fish's Github Homepage!
 I am a third year undergraduate student.
-I plan to apply for P.H.D in computer system in North America or German in **2024 fall**.
+I plan to apply for P.H.D in computer system in North America or Germany in **2024 fall**.
 Recently, I am looking for a ***computer system summer research***. Please contact me on ***WeChat*** rjzhb123 or ***email***: **rjzhb2326090@gmail.com**.
 
 ## My Skills
