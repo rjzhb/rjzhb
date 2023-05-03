@@ -3,7 +3,7 @@ I am a third year undergraduate.
 I plan to apply for P.H.D in computer system in North America in **2023 fall**.
 My primary research focus now is stream processing systems and database systems of data science.
 Recently, I am looking for a ***computer system summer research***. Please contact me on ***WeChat*** rjzhb123 or ***email***: **rj986215159@outlook.com**.
-      
+       
 ## My Skills
 |Property|Data|
 |---|---|
@@ -18,6 +18,5 @@ Recently, I am looking for a ***computer system summer research***. Please conta
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rjzhb&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
- <img src="https://visitor-badge.glitch.me/badge?page_id=rjzhb" />
 
 
