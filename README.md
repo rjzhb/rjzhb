@@ -1,6 +1,6 @@
 # Hi 🎉 Welcome to fish's Github Homepage!
 I am a third year undergraduate.
-I plan to apply for P.H.D in computer system in North America in **2023 fall**.
+I plan to apply for PhD in computer system in North America in **2023 fall**.
 My primary research focus now is stream processing systems and database systems of data science.
 Recently, I am looking for a ***computer system summer research***. Please contact me on ***WeChat*** rjzhb123 or ***email***: **rj986215159@outlook.com**.
                         
