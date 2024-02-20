@@ -1,7 +1,5 @@
 # Hi 🎉 Welcome to fish's Github Homepage!
-I am a third year undergraduate.
-I am planning to apply for a PhD in Computer Systems for the **Fall 2024** term in North America.
-My primary research focus now is applying machine learning for database systems and stream processing systems.
+My primary research focus now is applying machine learning systems and database systems.
 Contact me on ***WeChat*** rjzhb123 or ***email***: **rj986215159@outlook.com**.      
        
 ## My Skills
