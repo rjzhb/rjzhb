@@ -1,5 +1,5 @@
 # Hi 🎉 Welcome to fish's Github Homepage!
-My primary research focus now are machine learning systems and database systems.
+My primary research/engineering focus now are machine learning systems and database systems.
 Contact me on ***WeChat*** rjzhb123 or ***email***: **rj986215159@outlook.com**.      
         
 ## My Skills
